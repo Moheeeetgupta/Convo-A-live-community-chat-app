@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320520767968",
+    "project_id": "convo-854b6",
+    "storage_bucket": "convo-854b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320520767968:android:1f1e6edfba8acd1b8bc385",
+        "android_client_info": {
+          "package_name": "com.mohit.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320520767968-fgmvi8p7d3paegaiid4j0qse8v8kstue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohit.letschat",
+            "certificate_hash": "3b75f19ad8d52138379a90b901a2bf555af5f47f"
+          }
+        },
+        {
+          "client_id": "320520767968-epkthuhhkqvgm70beanh2qubfmbbgjbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOje0C0A54ym0e8BdGYOnQhmhY_BNVLEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320520767968-epkthuhhkqvgm70beanh2qubfmbbgjbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
